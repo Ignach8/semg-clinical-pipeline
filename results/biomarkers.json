@@ -1,0 +1,18 @@
+{
+  "sampling_rate_hz": 1000.0,
+  "duration_s": 10.0,
+  "left": {
+    "rms_uv": 123.55019648440324,
+    "mdf_hz": 102.9066491199466,
+    "mnf_hz": 125.99654441293347,
+    "fatigue_slope_hz_per_s": -7.339791035138063
+  },
+  "right": {
+    "rms_uv": 86.40901390832066,
+    "mdf_hz": 107.24058255373572,
+    "mnf_hz": 126.75040155064262,
+    "fatigue_slope_hz_per_s": -7.150615555655217
+  },
+  "symmetry_index_pct": 35.379426800673194,
+  "dominant_side": "left"
+}
